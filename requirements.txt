@@ -1,4 +1,3 @@
-re
 numpy
 pandas
 plotly
