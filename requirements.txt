@@ -1,0 +1,10 @@
+re
+numpy
+pandas
+plotly
+requests
+yfinance
+flask
+scikit-learn
+threading
+datetime
